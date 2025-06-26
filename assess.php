@@ -23,7 +23,7 @@ if (!isset($_SESSION["user_id"])) {
         <option value="Sedentary">Sedentary</option>
     </select><br><br>
 
-        <label>Put Image:</label><br>
+        <label>Upload Your Image:</label><br>
     <input type="file" name="image" accept="image/*"><br><br>
 
     <button type="submit">Submit Assessment</button>
