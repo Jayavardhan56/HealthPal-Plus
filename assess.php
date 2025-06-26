@@ -13,7 +13,7 @@ if (!isset($_SESSION["user_id"])) {
     <label>Symptoms:</label><br>
     <textarea name="symptoms" rows="4" cols="50" required></textarea><br><br>
 
-    <label>Existing Diseases:</label><br>
+    <label>Diseases:</label><br>
     <input type="text" name="diseases" placeholder="e.g., diabetes, Migrane"><br><br>
 
     <label>Lifestyle:</label><br>
