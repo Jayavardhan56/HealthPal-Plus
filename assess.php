@@ -14,7 +14,7 @@ if (!isset($_SESSION["user_id"])) {
     <textarea name="symptoms" rows="4" cols="50" required></textarea><br><br>
 
     <label>Existing Diseases:</label><br>
-    <input type="text" name="diseases" placeholder="e.g., diabetes, asthma"><br><br>
+    <input type="text" name="diseases" placeholder="e.g., diabetes, Migrane"><br><br>
 
     <label>Lifestyle:</label><br>
     <select name="lifestyle" required>
