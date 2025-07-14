@@ -1,4 +1,5 @@
 🌟 HealthPal+ — Cloud-Based Health Symptom Tracker
+<img width="2348" height="1742" alt="healthpal+_cloud_architecture" src="https://github.com/user-attachments/assets/96c91434-3b1f-44f3-8f5f-621b132dceff" />
 
 HealthPal+ is a modern, web-based health tracking application designed to help users monitor their symptoms, calculate BMI, upload health reports, and generate downloadable PDF assessments. It’s built using PHP and MySQL and fully deployed on a scalable AWS cloud environment using best practices — including custom VPC setup, RDS (Aurora), security groups, and EC2 hosting.
 
