@@ -177,6 +177,7 @@ You’ll see the HealthPal+ login screen. Register and test the full workflow.
 🤝 Contribution & Credits
 
 This project was built fully by hand using AWS EC2, custom VPC networking, RDS (Aurora), and PHP.
-You’re free to fork, modify, and improve it.
+
+You’re free to fork, modify, and improve it, drop your suggestions.
 
 Pull requests are welcome!
